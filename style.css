@@ -43,7 +43,7 @@ h2{
 
 h3{
     margin-top: 10px;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-family: sans-serif;
     color: #2dc8f8;
 }
@@ -59,8 +59,8 @@ h3{
     min-width: 5rem;
     font-size: 3rem;
     text-align: center;
-    border-radius: 20px;
-    margin: 7px;
+    border-radius: 8px;
+    margin: 2px;
 }
 .griditem:hover{
     background-color: rgb(196, 253, 253);
